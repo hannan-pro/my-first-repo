@@ -1,0 +1,46 @@
+/* Global css */
+body{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.container{
+    width: 60%;
+    margin: auto;
+}
+
+/* header area css start */
+.header-area{
+    background-color: #23232e;
+    text-align: center;
+    color: #fff;
+    padding: 20px 0;
+}
+.header-area a{
+    color: #fff;
+    text-decoration: none;
+}
+.header-area h2{
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.logo-area img{
+    width: 70px;
+    height: auto;
+    margin-bottom: 40px;
+}
+.header-area p{
+    font-size: 12px;
+}
+.next-section{
+    margin-top: 80px;
+}
+.next-section a i{
+    border: 1px solid #fff;
+    font-size: 12px;
+    height: 12px;
+    width: 12px;
+    padding: 10px;
+    border-radius: 50%;
+}
+/* Header area css end */
